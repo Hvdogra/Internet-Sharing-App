@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="Data_size">
+    <item>5 MB</item>
+    <item>10 MB</item>
+    <item>20 MB</item>
+    <item>50 MB</item>
+    <item>100 MB</item>
+    <item>200 MB</item>
+    <item>500 MB</item>
+</string-array>
+</resources>
