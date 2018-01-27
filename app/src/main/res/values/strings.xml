@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Internet Sharing App</string>
+    <string name="sample_text">sample text</string>
 </resources>
