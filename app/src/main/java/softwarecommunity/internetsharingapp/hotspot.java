@@ -8,7 +8,7 @@ package softwarecommunity.internetsharingapp;
         import java.io.IOException;
         import java.lang.reflect.Method;
         import java.net.InetAddress;
-        import java.util.ArrayList;
+        import java.util.List;
 
         import android.content.Context;
         import android.net.wifi.WifiConfiguration;
