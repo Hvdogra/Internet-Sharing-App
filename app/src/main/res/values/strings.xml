@@ -3,4 +3,8 @@
     <string name="sample_text">sample text</string>
     <string name="sell">SELL</string>
     <string name="buy">BUY</string>
+    <string name="sell2">SELL</string>
+    <string name="seller">Seller</string>
+    <string name="data_to_sell_mb">Data to Sell (MB)</string>
+    <string name="how_much_time_mins">How Much Time (Mins) ?</string>
 </resources>
